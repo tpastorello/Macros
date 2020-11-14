@@ -1,0 +1,20 @@
+!Loop
+Assistant.Macros.DoubleClickTypeAction|3717|True
+Assistant.Macros.WaitForTargetAction|1
+Assistant.Macros.AbsoluteTargetAction|0|0|38712|1577|588|5|401
+Assistant.Macros.PauseAction|00:00:00.2500000
+Assistant.Macros.DoubleClickTypeAction|3717|True
+Assistant.Macros.WaitForTargetAction|1
+Assistant.Macros.LastTargetAction
+Assistant.Macros.PauseAction|00:00:00.2500000
+Assistant.Macros.DoubleClickTypeAction|3717|True
+Assistant.Macros.WaitForTargetAction|1
+Assistant.Macros.LastTargetAction
+Assistant.Macros.PauseAction|00:00:00.2500000
+Assistant.Macros.DoubleClickTypeAction|3717|True
+Assistant.Macros.WaitForTargetAction|1
+Assistant.Macros.LastTargetAction
+Assistant.Macros.PauseAction|00:00:00.2500000
+Assistant.Macros.IfAction|4|0|não parece ter mais minério neste local
+Assistant.Macros.WalkAction|7
+Assistant.Macros.EndIfAction
