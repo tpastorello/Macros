@@ -4,6 +4,7 @@ Assistant.Macros.HotKeyAction|1025|
 Assistant.Macros.PauseAction|00:00:10
 Assistant.Macros.ElseAction
 Assistant.Macros.DoubleClickTypeAction|3717|True
+Assistant.Macros.DoubleClickTypeAction|5180|True
 Assistant.Macros.PauseAction|00:00:01
 Assistant.Macros.HotKeyAction|1059|
 Assistant.Macros.PauseAction|00:00:10
