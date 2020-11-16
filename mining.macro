@@ -7,6 +7,7 @@ Assistant.Macros.ElseAction
 Assistant.Macros.HotKeyAction|1307|
 Assistant.Macros.PauseAction|00:00:00.5000000
 Assistant.Macros.DoubleClickTypeAction|3717|True
+Assistant.Macros.DoubleClickTypeAction|5180|True
 Assistant.Macros.PauseAction|00:00:01
 Assistant.Macros.HotKeyAction|1059|
 Assistant.Macros.PauseAction|00:00:00.5000000
@@ -15,7 +16,9 @@ Assistant.Macros.PauseAction|00:00:10
 Assistant.Macros.EndIfAction
 Assistant.Macros.IfAction|4|0|não parece ter mais minério neste local
 Assistant.Macros.WalkAction|7
-Assistant.Macros.WalkAction|7
+Assistant.Macros.WalkAction|4
+Assistant.Macros.WalkAction|4
 Assistant.Macros.WalkAction|5
+Assistant.Macros.WalkAction|4
 Assistant.Macros.WalkAction|5
 Assistant.Macros.EndIfAction
